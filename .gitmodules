@@ -1,0 +1,9 @@
+[submodule "games/hannnibal"]
+	path = games/hannnibal
+	url = https://github.com/tomo9878/hannnibal
+[submodule "games/manilla"]
+	path = games/manilla
+	url = https://github.com/tomo9878/manilla
+[submodule "games/pandemic_rome"]
+	path = games/pandemic_rome
+	url = https://github.com/tomo9878/pandemic_rome
