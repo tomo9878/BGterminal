@@ -50,7 +50,7 @@ const GAMES = [
 
 function GameCard({ game }) {
   return (
-    <a href={game.path} className="game-card" style={{ '--card-color': game.color }}>
+    <a href={game.path} className="game-card" style={{ '--card-color': game.color }} target="_blank" rel="noopener noreferrer">
       <div className="card-icon">{game.icon}</div>
       <div className="card-body">
         <h2 className="card-title">{game.title}</h2>
