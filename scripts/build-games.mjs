@@ -13,6 +13,7 @@ const ALL_GAMES = [
   { name: 'hannnibal',     dir: 'games/hannnibal/hannibal-solo' },
   { name: 'manilla',       dir: 'games/manilla/frontend' },
   { name: 'pandemic_rome', dir: 'games/pandemic_rome' },
+  { name: 'sprawlopolis',  dir: 'games/sprawlopolis' },
 ]
 
 // 引数でゲーム名を指定すると単体ビルド（例: node build-games.mjs pandemic_rome）

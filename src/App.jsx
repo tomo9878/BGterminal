@@ -28,6 +28,15 @@ const GAMES = [
     icon: '🏛️',
     tags: ['協力', '歴史', 'ローマ'],
   },
+  {
+    id: 'sprawlopolis',
+    title: 'Sprawlopolis',
+    description: 'スプロウポリス — 都市計画カードゲーム。18枚のカードで都市を建設し、スコアリング条件を達成せよ',
+    path: '/games/sprawlopolis/',
+    color: '#2E7D32',
+    icon: '🏙️',
+    tags: ['ソロ', 'カードゲーム', '都市建設'],
+  },
 ]
 
 function GameCard({ game }) {
