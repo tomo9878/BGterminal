@@ -7,3 +7,6 @@
 [submodule "games/pandemic_rome"]
 	path = games/pandemic_rome
 	url = https://github.com/tomo9878/pandemic_rome
+[submodule "games/sprawlopolis"]
+	path = games/sprawlopolis
+	url = https://github.com/tomo9878/sprawlopolis
