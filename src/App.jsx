@@ -37,6 +37,15 @@ const GAMES = [
     icon: '🏙️',
     tags: ['ソロ', 'カードゲーム', '都市建設'],
   },
+  {
+    id: '12-patrols',
+    title: '12 Patrols',
+    description: '12 パトロールズ — ソロ抽象戦略ゲーム。騎士（ダイス）と歩兵（キューブ）を配置し、12のパトロールで勝利を目指す',
+    path: 'https://tomo9878.github.io/12-patrols-web/',
+    color: '#4A235A',
+    icon: '⚔️',
+    tags: ['ソロ', 'ウォーゲーム'],
+  },
 ]
 
 function GameCard({ game }) {
